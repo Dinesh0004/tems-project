@@ -81,16 +81,6 @@ Deployment (Docker / Cloud)
 👤 Author
 Dinesh
 
-yaml
-Copy code
 
-This README alone makes your project **interview-ready**.
 
----
 
-# 🔷 STEP 5: ADD & COMMIT PROJECT
-
-```bash
-git add .
-git commit -m "Initial TEMS project setup"
-```

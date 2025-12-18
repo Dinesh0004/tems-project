@@ -1,0 +1,25 @@
+# Backend (Spring Boot)
+target/
+*.class
+*.log
+*.jar
+*.war
+
+# Frontend (React)
+node_modules/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+application.properties
+application.yml
